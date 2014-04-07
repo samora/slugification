@@ -1,5 +1,7 @@
 # slugification
 
+[![Build Status](https://travis-ci.org/samora/slugification.svg)](https://travis-ci.org/samora/slugification)
+
 Transform string into slug. Replaces spaces and special characters.
 
 ## Installation

@@ -11,7 +11,7 @@ module.exports = slugification;
  */
 function slugification (str, spaceReplacement, specialCharReplacement) {
   var matchSpaces = /\s+/g,
-    matchSpecialChars = /[^a-zA-Z0-9-]+/g;
+    matchSpecialChars = /[^a-zA-Z0-9-_]+/g;
 
   return str
     .replace(matchSpaces, spaceReplacement || '-')

@@ -1,6 +1,6 @@
 {
   "name": "slugification",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform string into slug. Replaces spaces and special characters.",
   "main": "index.js",
   "scripts": {

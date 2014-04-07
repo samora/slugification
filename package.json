@@ -1,0 +1,28 @@
+{
+  "name": "slugification",
+  "version": "0.0.0",
+  "description": "Transform string into slug. Replaces spaces and special characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samora/slugification"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "string",
+    "url"
+  ],
+  "author": "Samora Dake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samora/slugification/issues"
+  },
+  "homepage": "https://github.com/samora/slugification",
+  "devDependencies": {
+    "should": "~3.3.0"
+  }
+}
